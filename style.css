@@ -1,0 +1,27 @@
+.logo{
+    display:flex;justify-content:space-between; box-shadow: 2px 1px 2px #eee;
+}
+.nav1{
+    padding-left: 65px;padding-top: 25px;padding-bottom: 25px;
+}
+.nav2{
+    display:flex;justify-content:flex-end;padding-right: 65px;padding-top: 25px;padding-bottom: 25px;
+}
+.buttonstyle{
+padding-right: 25px;color:#666;cursor: pointer;
+}
+.heroimage{
+    display:flex;justify-content:center;padding-top: 50px;
+}
+.herotext1{
+display:flex;justify-content: center;padding-top: 40px;
+}
+.herotext2{
+    display:flex;justify-content: center;font-size: 1.25rem;
+}
+.centerdiv{
+     display:flex;justify-content: center;
+}
+.signupbutton{
+    padding: 0px 30px;background-color: #387ed1; cursor: pointer; margin-top: 25px;border-radius: 3px;
+}
